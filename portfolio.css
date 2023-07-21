@@ -1,0 +1,11 @@
+h1
+{
+  text-align: center; color: lightblue; font-family: Garamond; font-size: 70px; 
+  position: relative;
+  top: 200px
+}
+body {
+  background-image: url("https://i.postimg.cc/tRNw2vX5/wall.jpg");
+  background-size: 2000px;
+  background-position: center low
+}
